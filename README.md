@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @talhanamaldi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+                                                        👋 Hi, I’m Talha Namaldı
+                                                        
+                                                        Computer Engineering Student At TED University
+                                                        
+                                                        
+- 👀 I’m interested in Java.
+- 🌱 I’m currently learning advanced Java.
+- 📫 How to reach me talhanamaldi@gmail.com 
 
-<!---
-talhanamaldi/talhanamaldi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/talhanamaldi)
