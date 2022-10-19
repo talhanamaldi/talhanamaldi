@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Java.**
 
-- 🌱 I’m currently learning **advanced Java.**
+- 🌱 I’m currently learning **Web Programming**
 
 - 📫 How to reach me **talhanamaldi@gmail.com**
 
