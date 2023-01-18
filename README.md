@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Talha Namaldı</h1>
 <h3 align="center">Computer Engineering Student At TED University</h3>
 
-- 🔭 I’m currently working on **Java.**
-
 - 🌱 I’m currently learning **Web Programming**
 
 - 📫 How to reach me **talhanamaldi@gmail.com**
